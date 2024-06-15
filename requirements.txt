@@ -1,0 +1,13 @@
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+streamlit
+sentence_transformers
+faiss_cpu
+chainlit
+ctransformers
+textract
+tika
+autoawq
